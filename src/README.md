@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/kiranhart/Order-Summary](https://github.com/kiranhart/Order-Summary)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kiranhart.com/frontend-mentor/order-summary-component/](https://kiranhart.com/frontend-mentor/order-summary-component/)
 
 ### Built with
 
